@@ -1,2 +1,6 @@
-# Using-code
-1. Open Matlab. 2. Click "Open" and find the location of the code. 3. Click "run" and enter the step number. 4. Enjoy the result!
+# How-to-use-code
+1. Open Matlab. 
+2. Click "Open" and find the location of the code. 
+3. Click "run" 
+4. Enter the step number as required.
+5. Enjoy the result!
